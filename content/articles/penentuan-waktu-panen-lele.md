@@ -4,7 +4,7 @@ description: "Pelajari cara menentukan waktu panen lele yang tepat untuk memaksi
 date: "2026-02-26"
 category: "Budidaya lele"
 slug: "penentuan-waktu-panen-lele-yang-tepat-kunci-keberhasilan-budidaya-lele-untuk-keuntungan-maksimal"
-coverImage: "/image/penentuan-waktu-panen-lele.webp"
+coverImage: "/images/penentuan-waktu-panen-lele.webp"
 tags:
   [
     "budidaya lele",
