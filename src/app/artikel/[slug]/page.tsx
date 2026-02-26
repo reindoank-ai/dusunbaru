@@ -96,7 +96,27 @@ export default async function ArticlePage({ params }: Props) {
           )}
 
           <div className="prose prose-emerald prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
-            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            <ReactMarkdown 
+              remarkPlugins={[remarkGfm]}
+              components={{
+                img: ({ node, ...props }) => (
+                  <span className="block relative w-full h-auto my-8 rounded-xl overflow-hidden shadow-sm border border-gray-200 dark:border-gray-800">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      {...props}
+                      alt={props.alt || "Gambar artikel"}
+                      className="w-full h-auto object-contain m-0"
+                      loading="lazy"
+                    />
+                    {props.alt && (
+                      <span className="block text-center text-sm text-gray-500 dark:text-gray-400 mt-2 mb-4 italic">
+                        {props.alt}
+                      </span>
+                    )}
+                  </span>
+                ),
+              }}
+            >
               {article.content}
             </ReactMarkdown>
           </div>
