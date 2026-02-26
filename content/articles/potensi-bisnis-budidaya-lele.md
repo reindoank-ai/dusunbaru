@@ -112,3 +112,5 @@ Bagi Anda yang tertarik untuk memulai usaha budidaya lele, berikut adalah bebera
 ## Kesimpulan
 
 Budidaya lele menawarkan potensi bisnis yang sangat menjanjikan di Indonesia. Dengan permintaan pasar yang tinggi, ketahanan hidup ikan yang baik, pertumbuhan cepat, modal relatif terjangkau, dan fleksibilitas sistem budidaya, lele menjadi komoditas perikanan yang menarik untuk digeluti. Meskipun ada tantangan, dengan persiapan yang matang, pengetahuan yang cukup, dan manajemen yang disiplin, Anda dapat meraih keuntungan signifikan dari usaha ini. Jadi, jika Anda mencari peluang bisnis di sektor perikanan, budidaya lele adalah pilihan yang patut Anda pertimbangkan secara serius.
+
+[Hitung estimasi keuntungan budidaya lele...](/kalkulator/lele)
