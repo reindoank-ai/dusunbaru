@@ -4,7 +4,7 @@ description: "Pelajari cara mengidentifikasi, mencegah, dan mengobati penyakit l
 date: "2026-02-25"
 category: "Perikanan"
 slug: "mengatasi-penyakit-lele"
-coverImage: "/images/mengatasi-penyakit-lele"
+coverImage: "/images/mengatasi-penyakit-lele.webp"
 tags:
   [
     "budidaya lele",

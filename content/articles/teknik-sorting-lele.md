@@ -4,7 +4,7 @@ description: "Optimalkan budidaya lele Anda dengan teknik sorting lele yang efek
 date: "2026-02-24"
 category: "Perikanan"
 slug: "teknik-sorting-lele"
-coverImage: "/images/teknik-sorting-lele"
+coverImage: "/images/teknik-sorting-lele.webp"
 tags:
   [
     "budidaya lele",

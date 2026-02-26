@@ -4,7 +4,7 @@ description: "Ketahui cara efektif manajemen hama predator kolam lele untuk menj
 date: "2026-02-26"
 category: "Perikanan"
 slug: "manajemen-hama-predator"
-coverImage: "/images/manajemen-hama-predator.webp"
+coverImage: "/images/manajemen-hama-predator-lele.webp"
 tags:
   [
     "budidaya lele",
