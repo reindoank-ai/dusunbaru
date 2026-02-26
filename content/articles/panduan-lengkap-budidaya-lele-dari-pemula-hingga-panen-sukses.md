@@ -1,7 +1,7 @@
 ---
 title: "Panduan Lengkap Budidaya Lele: Dari Pemula Hingga Panen Sukses"
 description: "Temukan panduan komprehensif budidaya lele, mulai dari memilih benih unggul, persiapan kolam ideal, manajemen pakan, menjaga kualitas air, hingga strategi panen dan pemasaran lele yang menguntungkan. Cocok untuk pemula dan pembudidaya berpengalaman."
-date: "2026-02-26"
+date: "2026-02-16"
 category: "Perikanan"
 slug: "panduan-lengkap-budidaya-lele-dari-pemula-hingga-panen-sukses"
 coverImage: "/images/panduan-lengkap-budidaya-lele.webp"
